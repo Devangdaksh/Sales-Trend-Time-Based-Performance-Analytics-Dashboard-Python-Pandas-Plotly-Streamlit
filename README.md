@@ -51,9 +51,7 @@ A professional project score section can be added here for evaluation or present
 
 Example format:
 
-- Project Score: 9.5/10
-- Quality: Excellent
-- Presentation: Professional
+
 
 ## ▶️ Run Locally
 
